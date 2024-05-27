@@ -6,11 +6,34 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1000&color=34C85F&center=true&vCenter=true&random=false&width=600&lines=Aspiring+Software+Developer;Passionate+Computer+Engineer;Exploring+New+Technologies;Learning+and+Growing+Every+Day)](https://git.io/typing-svg)
 </div>
 
-I am a passionate software developer in training, driven by the belief that every great piece of software starts with a problem waiting to be solved. My journey in the world of code is fueled by curiosity and a relentless desire to turn ideas into reality.
 
-When I'm not coding, you can find me diving into tech blogs, experimenting with new technologies, or brainstorming my next big idea. Let's connect and build something amazing together!
+```java
+// About Me
+public class RomanManzhelii {
+    private String passion = "software development";
+    private String belief = "Every great piece of software starts with a problem waiting to be solved.";
+    private String[] fuel = {"curiosity", "relentless desire to turn ideas into reality"};
+    private String[] currentActivities = {
+        "diving into tech blogs",
+        "experimenting with new technologies",
+        "brainstorming next big idea"
+    };
+    private String invitation = "Let's connect and build something amazing together!";
+    
+    public void checkOut() {
+        System.out.println("Feel free to check out my repositories and see what I'm working on.");
+        System.out.println("Whether it's debugging code or exploring new tech trends,
+                            I'm always up for a challenge and a good laugh.");
+    }
+    
+    public static void main(String[] args) {
+        RomanManzhelii roman = new RomanManzhelii();
+        System.out.println(roman.invitation);
+        roman.checkOut();
+    }
+}
 
-Feel free to check out my repositories and see what I'm working on. Whether it's debugging code or exploring new tech trends, I'm always up for a challenge and a good laugh. 
+```
 
 
 <details> 
