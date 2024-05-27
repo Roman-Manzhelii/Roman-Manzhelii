@@ -66,3 +66,12 @@ Feel free to check out my repositories and see what I'm working on. Whether it's
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
+
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Roman-Manzhelii/Roman-Manzhelii/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
