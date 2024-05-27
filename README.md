@@ -34,8 +34,7 @@ public class RomanManzhelii {
 }
 
 ```
-
-
+<div align="center">
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
@@ -89,6 +88,13 @@ public class RomanManzhelii {
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman-Manzhelii&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=34C85F&icon_color=34C85F&border_color=34C85F" alt="" style="width: 400px; height: 200px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVsaXAwbXFyMmFhOTBkbmM3M2h4emE5cG5xeDl1dGlzd2FwNndwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" alt="" style="width: auto; height: 200px;">
+</div>
+
 
 
 <div align="center">
