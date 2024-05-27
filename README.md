@@ -71,7 +71,7 @@ Feel free to check out my repositories and see what I'm working on. Whether it's
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Roman-Manzhelii/Roman-Manzhelii/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Roman-Manzhelii/Roman-Manzhelii/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
 </div>
