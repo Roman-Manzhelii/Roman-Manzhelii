@@ -1,6 +1,18 @@
+<div align="center">
+  <h1>Hello there! 👋</h1>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=34C85F&center=true&vCenter=true&random=false&width=600&lines=Aspiring+Software+Developer;Passionate+Computer+Engineer;Exploring+New+Technologies;Learning+and+Growing+Every+Day)](https://git.io/typing-svg)
+</div>
+
+I am a passionate software developer in training, driven by the belief that every great piece of software starts with a problem waiting to be solved. My journey in the world of code is fueled by curiosity and a relentless desire to turn ideas into reality.
+
+When I'm not coding, you can find me diving into tech blogs, experimenting with new technologies, or brainstorming my next big idea. Let's connect and build something amazing together!
+
+Feel free to check out my repositories and see what I'm working on. Whether it's debugging code or exploring new tech trends, I'm always up for a challenge and a good laugh. 
+
+
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
