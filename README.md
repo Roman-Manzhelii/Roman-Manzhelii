@@ -34,6 +34,24 @@ public class RomanManzhelii {
 }
 
 ```
+
+<p align="center">
+<!--   <a>
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&link=https://your-portfolio-link.com" alt="Portfolio Badge" style="height: 32px;">
+  </a> -->
+  <a href="https://www.linkedin.com/in/roman-manzhelii-a6171226b">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/timonchristiansen/" alt="LinkedIn" style="height: 32px;">
+  </a>
+  <a href="https://github.com/Roman-Manzhelii">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&labelColor=181717&logo=GitHub&link=https://github.com/your-github-username" alt="GitHub" style="height: 32px;">
+  </a>
+  <a href="https://discord.gg/NXV4c3tW">
+    <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&labelColor=7289DA&logo=Discord&logoColor=white&link=https://discord.com/invite/your-discord-link" alt="Discord" style="height: 32px; background-color: #4B5C7C;">
+  </a>
+</p>
+
+
+
 <div align="center">
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
