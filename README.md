@@ -1,7 +1,9 @@
 <div align="center">
-  <h1>Hello there! 👋</h1>
+  <a href="https://github.com/Roman-Manzhelii">
+    <img src="name.png" alt="Roman Manzhelii" />
+  </a> <br/><br/>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=34C85F&center=true&vCenter=true&random=false&width=600&lines=Aspiring+Software+Developer;Passionate+Computer+Engineer;Exploring+New+Technologies;Learning+and+Growing+Every+Day)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=4000&pause=1000&color=34C85F&center=true&vCenter=true&random=false&width=600&lines=Aspiring+Software+Developer;Passionate+Computer+Engineer;Exploring+New+Technologies;Learning+and+Growing+Every+Day)](https://git.io/typing-svg)
 </div>
 
 I am a passionate software developer in training, driven by the belief that every great piece of software starts with a problem waiting to be solved. My journey in the world of code is fueled by curiosity and a relentless desire to turn ideas into reality.
