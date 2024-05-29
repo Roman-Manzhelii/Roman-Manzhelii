@@ -53,9 +53,7 @@ public class RomanManzhelii {
 
 
 <div align="center">
-<details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
-
+  <br/>
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
@@ -74,6 +72,7 @@ public class RomanManzhelii {
       <a href="https://www.w3.org/Graphics/SVG"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
   </p>
 
+  <br/>
   <h3>🧰 Frameworks and Libraries</h3>
 
   <p>
@@ -84,6 +83,7 @@ public class RomanManzhelii {
       <a href="https://reactjs.org"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
   </p>
 
+  <br/>
   <h3>🗄️ Databases and Cloud Hosting</h3>
 
   <p>
@@ -93,6 +93,7 @@ public class RomanManzhelii {
       <a href="https://www.postgresql.org"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
   </p>
 
+  <br/>
   <h3>💻 Software and Tools</h3>
 
   <p>
@@ -105,7 +106,7 @@ public class RomanManzhelii {
       <a href="https://stackoverflow.com"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="https://code.visualstudio.com"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-</details>
+  <br/>
 </div>
 
 <div align="center">
