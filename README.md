@@ -35,6 +35,10 @@ public class RomanManzhelii {
 
 ```
 
+<h2 align="center">
+  💬 Contact me</span>
+</h2>
+
 <p align="center">
 <!--   <a>
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&link=https://your-portfolio-link.com" alt="Portfolio Badge" style="height: 32px;">
