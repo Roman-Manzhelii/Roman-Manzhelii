@@ -40,7 +40,7 @@ public class RomanManzhelii {
 </h2>
 
 <p align="center">
-  <a href="https://main--roman-manzhelii.netlify.app/">
+  <a href="https://romanmanzhelii.netlify.app">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square" alt="Portfolio Badge" style="height: 32px;">
   </a>
   <a href="https://www.linkedin.com/in/roman-manzhelii-a6171226b">
